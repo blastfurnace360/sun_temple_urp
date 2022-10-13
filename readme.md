@@ -1,4 +1,4 @@
-# Sun Templa URP Conversion  
+# Sun Temple URP Conversion  
 
 There is a great asset on the unity asset store called 'Sun Temple' by Sandro T. It has surface shaders which only work with built-in pipeline and I wanted to convert them to URP.  
 
